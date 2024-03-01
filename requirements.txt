@@ -4,7 +4,6 @@
 #scikit-learn==1.0.2
 # psycopg2==2.9.9
 #gunicorn
-pip 
 Django
 pandas
 scikit-learn
