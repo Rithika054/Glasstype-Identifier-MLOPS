@@ -1,4 +1,4 @@
-python==4.0
+python==24.0
 gunicorn
 Django
 pandas
